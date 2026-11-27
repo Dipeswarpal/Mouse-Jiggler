@@ -15,7 +15,7 @@ your chat status (Teams, Slack, etc.) from going "Away", by nudging the mouse
 ## Quick start (Windows)
 
 ```powershell
-git clone https://github.com/saurabh-1907/Mouse-jiggler.git
+git clone https://github.com/Dipeswarpal/Mouse-Jiggler.git
 cd Mouse-jiggler
 python jiggler.py
 ```
